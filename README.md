@@ -1,28 +1,107 @@
-# JSTACK-Job-Portal-Website-By-Tech2etc
+# 💼 JSTACK - Job Search Website
 
-Welcome to JSTACK, a job portal website project aimed at helping job seekers and employers connect efficiently. This repository contains all the necessary files and resources to build and deploy the JSTACK website.
+A modern and responsive Job Search Website built using HTML, CSS, and JavaScript. Users can browse jobs, filter job categories, view job details, and contact through a fully working contact form powered by Web3Forms.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Usage](#usage)
-- [License](#license)
+---
 
-## Overview
-JSTACK is a web-based platform designed to streamline the job search process. It provides a user-friendly interface for both job seekers and employers to interact, search for jobs, and post job openings. With its clean and intuitive design, JSTACK aims to enhance the job hunting experience.
+## 🚀 Live Demo
 
-## Features
-- Filter job listing throughout different categories
-- Dynamic job details page for every individual job listing
-- Job search functionality with filters
-- Job posting and management for employers
-- Responsive design for seamless experience across devices
-- Interactive and dynamic elements powered by JavaScript
-- Working contact us form
+🔗 https://your-live-demo-link.com
 
-## Usage
-To use JSTACK, simply clone this repository to your local machine and open the `index.html` file in your preferred web browser. You can customize the website by editing the HTML, CSS, and JavaScript files as needed. Make sure to replace the placeholder images in the `img` directory with your own images.
+---
 
-## License
-This project is licensed under the MIT License.
-This README provides an overview of the JSTACK project, its features, file structure, usage instructions, guidelines for contributing, and licensing information. Adjust the sections and content as needed to fit your project.
+## 📸 Preview
+
+![JSTACK Preview](images/preview.png)
+
+---
+
+## ✨ Features
+
+- 🔍 Search Jobs
+- 📂 Job Category Filter
+- 📄 Job Details Page
+- 📱 Fully Responsive Design
+- 📩 Working Contact Form (Web3Forms)
+- 🎨 Modern UI Design
+- 🌙 Dark Theme Support
+- ⚡ Smooth Animations
+- 🚀 Loading Screen
+- 📍 Google Maps Integration
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Boxicons
+- Web3Forms
+
+---
+
+## 📁 Folder Structure
+
+```
+JSTACK/
+│
+├── images/
+├── jobs/
+├── index.html
+├── contact.html
+├── job.html
+├── style.css
+├── script.js
+├── toggle.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/ItsAbubakar786/JSTACK.git
+```
+
+Go to project folder
+
+```bash
+cd JSTACK
+```
+
+Open
+
+```bash
+index.html
+```
+
+---
+
+## 📬 Contact
+
+**Abubakar**
+
+📧 abubakaransari.web@gmail.com
+
+🌐 Portfolio:
+https://abubakar-myportfolio.netlify.app/
+
+💼 LinkedIn:
+https://linkedin.com/in/abubakar987
+
+🐙 GitHub:
+https://github.com/ItsAbubakar786
+
+---
+
+## ⭐ Show your support
+
+If you like this project, give it a ⭐ on GitHub.
+
+---
+
+
