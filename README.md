@@ -6,13 +6,13 @@ A modern and responsive Job Search Website built using HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.com
+🔗 https://job-aplication-portal.netlify.app/
 
 ---
 
 ## 📸 Preview
 
-![JSTACK Preview](images/preview.png)
+![JSTACK Preview](images/preview.PNG)
 
 ---
 
